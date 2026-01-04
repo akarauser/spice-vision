@@ -1,0 +1,5 @@
+{
+    "base_model": "microsoft/resnet-18",
+    "dataset_path": "cornell-movie-review-data/rotten_tomatoes",
+    "output_path": "folder"
+}
